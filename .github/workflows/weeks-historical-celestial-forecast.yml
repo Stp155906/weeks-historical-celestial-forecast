@@ -37,9 +37,3 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git commit -m 'Update Week\'s Historical Celestial Forecast JSON file'
         git push origin main
-
-    - name: Upload JSON as an artifact (optional)
-      uses: actions/upload-artifact@v2
-      with:
-        name: weeks-historical-celestial-forecast
-        path: weeks_historical_celestial_forecast.json
