@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1T9dGs-rpmglPNDZtTgoVMGBCAcpuBDap
 """
 
-!pip install skyfield
-!pip install pandas
-!pip install nltk
 
 import json
 import requests
