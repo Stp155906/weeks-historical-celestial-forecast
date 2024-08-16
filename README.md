@@ -1,6 +1,4 @@
-To describe this in your GitHub repository's README, you want to provide a clear and concise explanation of what the repository does, how the workflow is set up, and how others can use the generated JSON data. Here's a sample section you can include in your README:
 
----
 
 ## Week's Historical Celestial Forecast
 
