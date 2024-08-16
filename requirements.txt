@@ -1,3 +1,4 @@
 skyfield
 pandas
 nltk
+requests
